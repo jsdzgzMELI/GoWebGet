@@ -9,3 +9,5 @@ type Product struct {
 	Expiration   string  `json:"expiration"`
 	Price        float64 `json:"price"`
 }
+
+var Products []Product
