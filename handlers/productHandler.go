@@ -9,9 +9,9 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/jsdzgzMELI/GoWeb/structs"
+	"github.com/jsdzgzMELI/GoWebGet/structs"
 
-	"github.com/jsdzgzMELI/GoWeb/helper"
+	"github.com/jsdzgzMELI/GoWebGet/helper"
 )
 
 const (

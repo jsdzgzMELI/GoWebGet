@@ -1,4 +1,4 @@
-module github.com/jsdzgzMELI/GoWeb
+module github.com/jsdzgzMELI/GoWebGet
 
 go 1.23.4
 
